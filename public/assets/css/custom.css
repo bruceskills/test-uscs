@@ -1,0 +1,7 @@
+body {
+    overflow: hidden !important;
+}
+
+.bg-custom {
+    background-image: url("/images/students-uscs.jpg") !important;
+}
